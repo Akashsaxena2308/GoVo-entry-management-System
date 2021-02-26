@@ -16,7 +16,7 @@ Anubhav is a platform developed for AITians to read & share encounters of variou
 5. [Routes](#routes)
 6. [Table Schema](#schema)
 7. [Directory](#Directory)
-8. [Contributions](#contributions)
+8. [Contributions](#contribution)
 9. [Copyright](#copyright)
 
 ---
