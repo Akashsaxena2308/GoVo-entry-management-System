@@ -15,8 +15,8 @@ Anubhav is a platform developed for AITians to read & share encounters of variou
 4. [Screens](#screens)
 5. [Routes](#routes)
 6. [Table Schema](#schema)
-7. [Directory](#DirectoryStructure)
-8. [For Contributions](#ForContribution)
+7. [Directory](#Directory)
+8. [For Contributions](#For)
 9. [Copyright](#copyright)
 
 ---
@@ -112,11 +112,11 @@ npm start
 #### User Schema
 ![image](https://github.com/aitoss/Anubhav-backend/blob/main/gallery/Screenshot%20(194).png?raw=true)
 
-### Directory Structure 
+### Directory 
 ![image](https://github.com/aitoss/Anubhav-backend/blob/main/gallery/Screenshot%20(188).png?raw=true)
 
 ---
-## For Contribution 
+## Contribution 
 Never push your code to master branch
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
