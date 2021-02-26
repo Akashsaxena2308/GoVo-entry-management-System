@@ -10,14 +10,14 @@ Anubhav is a platform developed for AITians to read & share encounters of variou
 ---
 ### Contents
 1. [Highlights](#highlights)
-2. [Requirements](#FEATURES)
-3. [Installation](#setup)
-3. [Screens](#screens)
-3. [Routes](#routes)
-4. [Table Schema](#Schema)
-5. [Directory](#Directory)
-6. [For Contributions](#screens)
-7. [Copyright](#routes)
+2. [Requirements](#requirements)
+3. [Installation](#installation)
+4. [Screens](#screens)
+5. [Routes](#routes)
+6. [Table Schema](#schema)
+7. [Directory](#Directory Structure)
+8. [For Contributions](#For Contribution)
+9. [Copyright](#xopyright)
 
 ---
 
